@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Compare_Excel_Sheets_for_Transactions_test" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <option name="filePath" value="$PROJECT_DIR$/test/Compare_Excel_Sheets_for_Transactions_test.dart" />
+    <method v="2" />
+  </configuration>
+</component>

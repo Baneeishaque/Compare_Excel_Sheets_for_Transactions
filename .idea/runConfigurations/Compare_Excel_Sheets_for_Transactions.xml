@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Compare_Excel_Sheets_for_Transactions" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <option name="filePath" value="$PROJECT_DIR$/bin/Compare_Excel_Sheets_for_Transactions.dart" />
+    <method v="2" />
+  </configuration>
+</component>
